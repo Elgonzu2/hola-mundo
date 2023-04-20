@@ -7,7 +7,7 @@
   <script src="script.js"></script>
 </head>
 <body>
-  <h1>Bienvenidos Hola Mundo</h1>
-  <h2>ChoicesPracticas Profesionalizantes</2>
+  <h1>Fernandez Gonzalo Exequiel</h1>
+  <h2>Esta es mi bifurcacion</h2>
 </body>
 </html>
